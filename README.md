@@ -1,4 +1,4 @@
-# 简易的 IOC 和 DispatcherServlet Web 应用程序——尚硅谷学习笔记 2022 年
+# 简易的 IOC 和 DispatcherServlet Web
 
 [TOC]
 
